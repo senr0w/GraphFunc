@@ -1,0 +1,11 @@
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\obj\Debug\GraphFunc.csproj.AssemblyReference.cache
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\obj\Debug\GraphFunc.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\obj\Debug\GraphFunc.Graph.resources
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\obj\Debug\GraphFunc.Properties.Resources.resources
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\obj\Debug\GraphFunc.csproj.GenerateResource.cache
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\obj\Debug\GraphFunc.csproj.CoreCompileInputs.cache
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\bin\Debug\GraphFunc.exe.config
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\bin\Debug\GraphFunc.exe
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\bin\Debug\GraphFunc.pdb
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\obj\Debug\GraphFunc.exe
+C:\Users\User\senr0w\GraphFunc-master\GraphFunc\obj\Debug\GraphFunc.pdb
