@@ -73,6 +73,17 @@ namespace GraphFunc
 
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Написано же НЕ НАЖИМАТЬ", "Ты чем читаешь?", MessageBoxButtons.YesNo,MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                MessageBox.Show("Совсем уже");
+          
+
+            }
+           
+        }
+
         private void очиститьГрафикToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (checkBox_cos.Checked == false && checkBox_sin.Checked == false)
@@ -92,10 +103,15 @@ namespace GraphFunc
 
         private void выходToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
-            if (MessageBox.Show("Выйти?", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            if(MessageBox.Show("Выйти?","Эээээээээ", MessageBoxButtons.YesNo)== DialogResult.Yes)
             {
+                MessageBox.Show("Не брат ты мне больше...", "(");
                 Application.Exit();
+
+            }
+            else
+            {
+                MessageBox.Show("Ваааай,брат,кроусавчег","Иииииуууу");
             }
         }
         private void Default()
